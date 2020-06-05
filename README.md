@@ -1,6 +1,6 @@
 # Recommendation-System
 
-This project was part of a course project to build a recommendation system using the MovieLens 100K dataset. 
+This project was part of a course assingment to build a recommendation system using the MovieLens 100K dataset. 
 
 The objectives of the project was to:
 
