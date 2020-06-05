@@ -1,4 +1,4 @@
-# Recommendation-System
+# Recommendation System
 
 This project was part of a course assingment to build a recommendation system using the MovieLens 100K dataset. 
 
