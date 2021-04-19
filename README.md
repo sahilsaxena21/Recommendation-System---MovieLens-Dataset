@@ -1,7 +1,5 @@
 # Recommendation System
 
-This project was part of a course assingment to build a recommendation system using the MovieLens 100K dataset. 
-
 The objectives of the project were as follows:
 
 1) Perform unstructured data pre-processing
